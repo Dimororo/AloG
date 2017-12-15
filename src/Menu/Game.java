@@ -10,6 +10,8 @@ public class Game {
     public void first_start(){
         first_run = true;
         System.out.println("Вы начали игру.");
+        System.out.println("Добро пожаловать в Норилимбримбриум.");
+
     }
 
     public void start(){
@@ -21,4 +23,6 @@ public class Game {
         System.out.println("Больше от вас ничего не потребуется.");
         System.out.println("Наслаждайтесь :)");
     }
+
+
 }
